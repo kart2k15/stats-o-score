@@ -32,7 +32,7 @@
             android:inputType="textPersonName"
             android:textAlignment="center"
             android:textSize="16sp" />
-
+         <!-- changing this button to circular--collab -->
         <Button
             android:id="@+id/battle"
             android:layout_width="wrap_content"
